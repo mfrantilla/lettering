@@ -1,5 +1,15 @@
-/* Your Website Styles */
+/* Lettering Exercise */
 
+.word1,
+.word3, {
+	color: orange;
+}
+
+.word2,
+.word4 {
+	color: #f0f;
+	letter-spacing: -2px;
+}
 
 /* Show Grid */
 .showgrid {
